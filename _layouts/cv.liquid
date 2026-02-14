@@ -63,7 +63,7 @@ layout: default
         <!-- Header/Contact Information -->
         {% if cv.name or cv.label or cv.location or cv.email or cv.phone or cv.website %}
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Contact Information</h3>
+            <h3 class="card-title font-weight-medium">联系信息</h3>
             <table class="table table-cv table-sm table-borderless">
               {% if cv.name %}
                 <tr>
@@ -115,7 +115,7 @@ layout: default
         <!-- Summary -->
         {% if cv.summary %}
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Professional Summary</h3>
+            <h3 class="card-title font-weight-medium">个人简介</h3>
             <p>{{ cv.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           </div>
         {% endif %}
@@ -129,7 +129,7 @@ layout: default
         {% if combined_experience.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Experience</h3>
+            <h3 class="card-title font-weight-medium">工作经历</h3>
             <div>
               {% assign entries = combined_experience %}
               {% include cv/experience.liquid %}
@@ -202,7 +202,7 @@ layout: default
         <!-- Contact Information -->
         {% if site.data.resume.basics %}
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Contact Information</h3>
+            <h3 class="card-title font-weight-medium">联系信息</h3>
             {% assign basics = site.data.resume.basics %}
             <table class="table table-cv table-sm table-borderless">
               {% if basics.name %}
@@ -255,7 +255,7 @@ layout: default
         <!-- Summary -->
         {% if site.data.resume.basics.summary %}
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Professional Summary</h3>
+            <h3 class="card-title font-weight-medium">个人简介</h3>
             <p>{{ site.data.resume.basics.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           </div>
         {% endif %}
@@ -268,7 +268,7 @@ layout: default
         {% if combined_experience.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Experience</h3>
+            <h3 class="card-title font-weight-medium">工作经历</h3>
             <div>
               {% assign entries = combined_experience %}
               {% include cv/experience.liquid %}
@@ -280,7 +280,7 @@ layout: default
         {% if site.data.resume.education.size > 0 %}
           <a class="anchor" id="education"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Education</h3>
+            <h3 class="card-title font-weight-medium">教育经历</h3>
             <div>
               {% assign entries = site.data.resume.education %}
               {% include cv/education.liquid %}
@@ -292,7 +292,7 @@ layout: default
         {% if site.data.resume.awards.size > 0 %}
           <a class="anchor" id="awards"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Awards</h3>
+            <h3 class="card-title font-weight-medium">荣誉奖项</h3>
             <div>
               {% assign entries = site.data.resume.awards %}
               {% include cv/awards.liquid %}
@@ -316,7 +316,7 @@ layout: default
         {% if site.data.resume.skills.size > 0 %}
           <a class="anchor" id="skills"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Skills</h3>
+            <h3 class="card-title font-weight-medium">专业技能</h3>
             <div>
               {% assign entries = site.data.resume.skills %}
               {% include cv/skills.liquid %}
@@ -328,7 +328,7 @@ layout: default
         {% if site.data.resume.languages.size > 0 %}
           <a class="anchor" id="languages"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Languages</h3>
+            <h3 class="card-title font-weight-medium">语言能力</h3>
             <div>
               {% assign entries = site.data.resume.languages %}
               {% include cv/languages.liquid %}
@@ -340,7 +340,7 @@ layout: default
         {% if site.data.resume.interests.size > 0 %}
           <a class="anchor" id="interests"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Interests</h3>
+            <h3 class="card-title font-weight-medium">兴趣爱好</h3>
             <div>
               {% assign entries = site.data.resume.interests %}
               {% include cv/interests.liquid %}
@@ -352,7 +352,7 @@ layout: default
         {% if site.data.resume.certificates.size > 0 %}
           <a class="anchor" id="certificates"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Certificates</h3>
+            <h3 class="card-title font-weight-medium">证书认证</h3>
             <div>
               {% assign entries = site.data.resume.certificates %}
               {% include cv/certificates.liquid %}
@@ -364,7 +364,7 @@ layout: default
         {% if site.data.resume.projects.size > 0 %}
           <a class="anchor" id="projects"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Projects</h3>
+            <h3 class="card-title font-weight-medium">项目经验</h3>
             <div>
               {% assign entries = site.data.resume.projects %}
               {% include cv/projects.liquid %}
@@ -376,7 +376,7 @@ layout: default
         {% if site.data.resume.references.size > 0 %}
           <a class="anchor" id="references"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">References</h3>
+            <h3 class="card-title font-weight-medium">推荐人</h3>
             <div>
               {% assign entries = site.data.resume.references %}
               {% include cv/references.liquid %}

@@ -2,11 +2,11 @@
 layout: about
 title: 关于我
 permalink: /
-subtitle: <a href='#'>所属机构</a>。地址。联系方式。座右铭等
+subtitle: 一名游戏行业的AI修真者。
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fengtian.png
   image_circular: false # 将图片裁剪为圆形
   more_info: >
     <p>办公室号码 555</p>

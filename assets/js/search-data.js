@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-简历",
           title: "简历",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "导航",
           handler: () => {
             window.location.href = "/cv/";

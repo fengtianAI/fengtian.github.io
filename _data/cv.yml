@@ -25,18 +25,6 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
@@ -49,6 +37,21 @@ cv:
           - Description 2.
 
     Experience:
+      - company: 在线途游
+        position: 锦鲤人工智能实验室负责人，首席AI科学家
+        location: 上海，北京
+        url: https://www.tuyoo.com/
+        # area: Physics
+        # studyType: PhD
+        start_date: 2024.07
+        end_date: 现在
+        # score: ""
+        # courses: "Theory of Relativity"
+        summary: 
+        highlights:
+          - Description 1.
+          - Description 2.
+
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
         location: Princeton University, NJ

@@ -47,10 +47,10 @@ cv:
         end_date: 现在
         # score: ""
         # courses: "Theory of Relativity"
-        summary: 
-        highlights:
-          - Description 1.
-          - Description 2.
+        summary: 深耕游戏AI领域，响应途游全面拥抱AI的战略，从0到1组建锦鲤人工智能实验室。专注于游戏人工智能前沿研究和落地应用，设立决策智能、数据科学、大模型应用、生成式AI、AI游戏等研究方向，设立亿智Giga Optimizer，亿创Giga Creative，亿投Giga Targeting，亿灵Giga Sprite，亿擎Giga Engine等业务方向。愿景是成为游戏行业人工智能驱动创新的领导者。使命是让用户在游戏的世界体验到玩乐的智慧和科技，让每一个人都能成为游戏创作者。
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics

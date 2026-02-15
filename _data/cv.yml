@@ -57,38 +57,45 @@ cv:
         location: 杭州，中国
         url: https://grow.163.com
         start_date: 2022.10
-        end_date: 2024.06
+        end_date: 2024.07
         summary: 保持对商业化的热情与信念，顺应智企“行业化”的战略加入游戏部，从0到1组建游戏部技术团队。持续聚焦游戏领域AI应用场景，从0到1搭建游戏AI平台，推动游戏AI商业化的规模化落地，与电魂、三七互娱、游族、无端、跳跃、掌游、瑞酷、塞凡、禅游、哈狗、巽风、开启、台湾IGS等游戏公司建立商业合作，创造千万商业营收，打造了《CSGO/CS2》AI反作弊、《梦三国2》AI机器人、《帝国战记》AI机器人、《巽风》AI反作弊、《街球艺术》AI机器人、《四川麻将》AI机器人、《掼蛋》AI机器人等标杆案例，合作项目3次入选GDC（全球游戏开发者大会）核心概念主会/机器学习峰会演讲（2次主讲人），带领团队从0到1开始探索游戏AIGC相关场景的研究与应用，如AI作画、智能NPC、语音驱动表情动作、AI捏脸、AI语音等。
         # highlights:
         #   - Relativity
         #   - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: 游戏AI负责人（22人），党支部书记
+        position: 网易伏羲科技
+        location: 杭州，中国
+        url: https://fuxi.163.com
+        start_date: 2020.12
+        end_date: 2022.10
+        summary: 顺应伏羲商业化趋势，从0到1组建伏羲科技游戏AI商业化和平台化团队。一年时间完成了游戏AI商业化市场探索和价值验证，申请了6项软件著作（第一著作人），与暴雪、DeNA、电魂、无端等游戏公司建立合作关系，创造近千万商业签单，打造了《魔兽世界》AI反作弊、《野蛮人2》AI机器人、《灌篮高手》AI机器人、《梦三国2》AI匹配、《生死狙击》AI反作弊等标杆案例。持续聚焦游戏领域AI场景，从0到1搭建游戏AI平台和Top Trainer平台（AI灵活用工平台），用好的工具加优秀的人解决客户难题。
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: 灵活用工平台算法负责人（8人）
+        position: 网易伏羲机器人
+        location: 杭州，中国
+        url: https://fuxi.163.com
+        start_date: 2022.01
+        end_date: 2022.10
+        summary: 顺应伏羲新的使命，研发面向虚实世界的实时人机协作在线任务平台，从0到1组建灵活用工平台算法团队。基于虚拟世界玩家的用户画像研究积累，助力于伏羲新使命下围绕真实世界灵活用工群体的众包算法（Crowdsoucing）与群体智能相关研究。具体开展主动学习（active learning）、实时派单、回报分解、自动质检、欺诈检测、能力评估、动态定价等研究。
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: 用户画像负责人（20人），党支部书记
+        position: 网易伏羲实验室
+        location: 杭州，中国
+        url: https://fuxi.163.com
+        start_date: 2017.04
+        end_date: 2020.
+        summary: 加入网易参与组建伏羲游戏人工智能实验室（国内首个游戏人工智能研究机构），从0到1组建用户画像研究和工程团队。围绕游戏用户行为数据开展用户画像、表征学习、异常检测、推荐系统、组合优化、可解释性、因果推断、图神经网络等相关研究。以第一作者发表伏羲第一单位首篇人工智能顶会论文（KDD2018），首篇游戏顶会论文、首篇最佳论文（CoG2020），累计发表近50篇论文（其中6篇第一作者）。从0到1搭建伏羲伏魔反外挂引擎、玄天匹配引擎、谛听推荐引擎、羽衣预测归因引擎、河图估值引擎等，3次GDC（全球游戏开发者大会）主讲人，申请40多项发明技术专利（其中8项已授权，4项第一发明人）。相关研究成果落地服务于《永劫无间》、《逆水寒》、《倩女幽魂》、《天谕》、《流星群侠传》、《战意》、《绝对演绎》、《风云岛行动》、《潮人篮球》等端手游，对内每年挽回游戏损失千万级别（反外挂），每年创造游戏增收千万级别（推荐），AI服务调用量级突破100亿次。
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
       - company: People's Climate March

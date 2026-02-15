@@ -9,9 +9,6 @@ profile:
   image: fengtian.png
   image_circular: false # 将图片裁剪为圆形
   more_info: >
-    <p>办公室号码 555</p>
-    <p>街道地址 123</p>
-    <p>城市，省份 邮编 12345</p>
 
 selected_papers: true # 包含标记为 "selected={true}" 的论文列表
 social: true # 在页面底部显示社交图标

@@ -7,7 +7,7 @@ subtitle: 一名游戏行业的AI修真者，桃宝和檬宝的爸爸。
 profile:
   align: right
   image: fengtian.png
-  image_circular: false # 将图片裁剪为圆形
+  image_circular: true # 将图片裁剪为圆形
   more_info: >
 
 selected_papers: true # 包含标记为 "selected={true}" 的论文列表
